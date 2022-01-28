@@ -6,6 +6,8 @@
 ## 2. 代码规范
   [阿里前端开发规范](阿里前端开发规范.pdf)
 
+  [React 风格指南](https://github.com/airbnb/javascript/tree/master/react)
+  
   [Vue2 风格指南](https://cn.vuejs.org/v2/style-guide)
 
   [Vue3 风格指南](https://v3.cn.vuejs.org/style-guide)
